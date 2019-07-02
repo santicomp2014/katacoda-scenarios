@@ -1,6 +1,6 @@
 {
     "courses": [
-      { "title": "Modulo 1 - Crear un cluster de Kubernetes  ⚓", "id": "1" },
+      { "title": "Modulo 1 - <br> Crear un cluster de Kubernetes  ⚓", "id": "1" },
       { "title": "Modulo 2 - Deploy de una app 🐳", "id": "7" },
       { "title": "Modulo 3 - Explorar la app 👀 ", "id": "4" },
       { "title": "Modulo 4 - Exponer la app públicamente 🌍", "id": "8" },
