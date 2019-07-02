@@ -1,11 +1,11 @@
 {
     "courses": [
-      { "title": "Module 1 - Create a Kubernetes cluster", "id": "1" },
-      { "title": "Module 2 - Deploy an app", "id": "7" },
-      { "title": "Module 3 - Explore your app", "id": "4" },
-      { "title": "Module 4 - Expose your app publicly", "id": "8" },
-      {	"title": "Module 5 - Scale up your app", "id": "5"},
-      {	"title": "Module 6 - Update your app", "id": "6"}
+      { "title": "Module 1 - Crear un cluster de Kubernetes  ⚓", "id": "1" },
+      { "title": "Module 2 - Deploy de una app 🐳", "id": "7" },
+      { "title": "Module 3 - Explorar la app 👀 ", "id": "4" },
+      { "title": "Module 4 - Exponer la app públicamente 🌍", "id": "8" },
+      {	"title": "Module 5 - Escalar la app 🚀", "id": "5"},
+      {	"title": "Module 6 - Actualizar la app 🔨", "id": "6"}
     ]
   }
   
