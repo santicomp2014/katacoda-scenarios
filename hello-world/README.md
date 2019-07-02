@@ -1,25 +1,19 @@
-# Katacoda Hello World
-This is an example repository. Starting building your own scenario by editing the files in this directory. Create additional scenarios by adding additional directories to the top level folder.
+# Kubernetes Bootcamp Interactive Scenarios
 
+Katacoda scenarios for the Kubernetes.io site at https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
-## index.json
-The file _index.json_ contains all the information about the scenario. It has the title, description and a heading for each step.
+## Scenarios
 
-The file also contains an imageid. This refers to the Katacoda environment. Here are some environment image IDs you may find useful:
+The ordering is a little confusing and the directories numbering does not match the modules on the Kubernetes site. The relationship is:
 
-| **Environment**  | **Image ID**  |
-|------------------|---------------|
-| Docker           | docker        |
-| Kubernetes       | kubernetes    |
-| CoreOS           | coreos        |
-| Node.js v6       | node6         |
-| Go               | go            |
-| C#               | c#            |
-| Java             | java8         |
-| Bash             | bash          |
+Directory 1: Module 1: Create a Kubernetes cluster
 
-## Pro Author Accounts
-Interested in metrics, private repositories and environments for classroom teaching? Update to become a Pro Author at https://katacoda.com/teach
+Directory 7: Module 2: Deploy an app
 
-## Interactive Developer Portals
-Want to take your scenarios to the next level? Visit https://katacoda.com/embed
+Directory 4: Module 3: Explore your app
+
+Directory 8: Module 4: Expose your app publicly
+
+Directory 5: Module 5: Scale up your app
+
+Directory 6: Module 6: Update your app
